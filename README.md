@@ -1,5 +1,3 @@
-# FrinzTheCoder.github.io
-
 ## Welcome to my GitHub Page!
 
 My name is Muhammad Falensi Azmi (also known as FrinzTheCoder)
